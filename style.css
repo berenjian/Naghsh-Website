@@ -1,9 +1,5 @@
 @charset "utf-8";
 /* CSS Document */
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/master
 @font-face {
     font-family: 'paco';
 	src:url('paco.TTF');
@@ -12,11 +8,10 @@
 }
 div{
 	outline:dashed red 1px;	
-<<<<<<< HEAD
+
 }
 
-=======
-=======
+
 body{
 	background-image:;
 	background-repeat:;
@@ -186,7 +181,6 @@ div.banner ul.btn li.active{
 	height:22px;
 	margin-top:-6px;
 	-webkit-transition-duration:300ms;
->>>>>>> origin/master
 }
 
 >>>>>>> origin/master
@@ -403,8 +397,6 @@ div.first-box div.right{
 }
 div.first-box div.clear{
 	clear:both;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin/master
+
+

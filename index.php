@@ -40,10 +40,6 @@
             <li></li>
         </ul>
     </div>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/master
 	<div class="content">
 		<div class="news">
 			<p class="pro">
@@ -67,12 +63,7 @@
 		</div>
 		<div class="second-box"></div>
 	</div>
-<<<<<<< HEAD
-=======
-=======
 	<div class="content"></div>
->>>>>>> origin/master
->>>>>>> origin/master
 
 
 
