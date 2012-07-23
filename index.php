@@ -54,27 +54,48 @@
 				<img src="Images/icon_cloud_blue.gif"/>
 				<p class="name">Lenovo Z580</p>
 				<p class="detail">
-				Up to 3rd generation Intel® Core™ i7
-				Up to Genuine Windows® 7 Home Premium
-				Lenovo Enhanced Experience 3
-				15.6" HD widescreen
-				Starting at 5.8 lbs.
-				Up to 5 hours
-				Up to 1TB HDD
-				Up to 8GB DDR3
+					Up to 3rd generation Intel® Core™ i7
+					Up to Genuine Windows® 7 Home Premium
+					Lenovo Enhanced Experience 3
+					15.6" HD widescreen
+					Starting at 5.8 lbs.
+					Up to 5 hours
+					Up to 1TB HDD
+					Up to 8GB DDR3<br /><br />
+					<a href="#">بیشتر</a
 				</p>
 			</div>
 			<div class="middle">
 				<img src="Images/icon_photo_blue.gif"/>
 				<p class="name">Lenovo V570</p>
-				<p class="detail"></p>
+				<p class="detail">
+					Intel Core i5-2410M 2.4 GHz, 6 GB RAM
+					640 GB Hard Drive, DVD/RW
+					1e-SATA, 3- USB 2.0, HDMI, VGA, Intel Wireless Display
+					WiMax enabled, Fingerprint reader
+					Windows 7 Home Premium<br /><br />
+					<a href="#">بیشتر</a>
+				</p>
 			</div>
 			<div class="right">
 				<img src="Images/icon_iniani_blue.gif"/>
-				<p class="name">Lenovo Z470</p>			
-				<p class="detail"></p>			
+				<p class="name">Lenovo Z480</p>			
+				<p class="detail">
+					Up to 3rd generation Intel® Core™ i7
+					Up to Genuine Windows® 7 Home Premium
+					Lenovo Enhanced Experience 3
+					14" HD widescreen
+					Starting at 5.1 lbs.
+					Up to 5 hours
+					Up to 750GB HDD
+					Up to 8GB DDR3<br /><br />
+					<a href="#">بیشتر</a
+				</p>			
 			</div>
 			<div class="clear"></div>
+				<p class="line">
+							  			----------------------------------------------------------------------------------------------------------------------------------------------
+				</p>
 		</div>
 		<div class="second-box"></div>
 	</div>

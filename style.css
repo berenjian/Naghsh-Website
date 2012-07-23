@@ -420,5 +420,34 @@ p.detail{
 	font-size:15px;
 	text-align:center;
 }
-
-
+div.first-box div.left a{
+	text-align:center;
+	font-family:"Comic Sans MS", cursive;
+	color:#00CCFF;
+	font-size:18px;
+	text-decoration:none;
+}
+div.first-box div.middle a{
+	text-align:center;s
+	font-family:"Comic Sans MS", cursive;
+	color:#00CCFF;
+	font-size:18px;
+	text-decoration:none;
+}
+div.first-box div.right a{
+	text-align:center;s
+	font-family:"Comic Sans MS", cursive;
+	color:#00CCFF;
+	font-size:18px;
+	text-decoration:none;
+}
+div.second-box{
+	width:1000px;
+	min-height:255px;	
+}
+p.line{
+	font-size:17px;
+	color:#999;
+	text-align:center;
+	margin-top:10px;
+}
