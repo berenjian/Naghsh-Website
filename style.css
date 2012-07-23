@@ -6,11 +6,6 @@
     font-weight: normal;
     font-style: normal;
 }
-div{
-	outline:dashed red 1px;	
-
-}
-
 
 body{
 	background-image:;
@@ -90,8 +85,6 @@ div.logo{
 	-o-box-shadow:5px 5px 5px #333;
 }
 
-@charset "utf-8";
-/* CSS Document */
 
 *{
 	margin:0;
@@ -182,8 +175,6 @@ div.banner ul.btn li.active{
 	margin-top:-6px;
 	-webkit-transition-duration:300ms;
 }
-
->>>>>>> origin/master
 body{
 	background-image:url(Images/bg.png);
 	background-repeat:repeat;
@@ -260,14 +251,6 @@ div.logo{
 	-moz-box-shadow:5px 5px 5px #333;
 	-ms-box-shadow:5px 5px 5px #333;
 	-o-box-shadow:5px 5px 5px #333;
-}
-
-@charset "utf-8";
-/* CSS Document */
-
-*{
-	margin:0;
-	padding:0;
 }
 
 div.container{
@@ -356,7 +339,7 @@ div.banner ul.btn li.active{
 }
 div.content{
 	width:1000px;
-	min-height:500px;
+	min-height:400px;
 	background-color:#FFFFFF;
 	padding-top:1px;
 }
@@ -388,15 +371,54 @@ div.first-box div.left{
 div.first-box div.middle{
 	width:322px;
 	height:250px;
-	margin-left:675px;
+	float:left;
+	
 }
 div.first-box div.right{
 	width:322px;
 	height:250px;
-	float:left;
+	margin-left:675px;
 }
 div.first-box div.clear{
 	clear:both;
+}
+div.first-box div.left img{
+	margin-left:90px;
+}
+div.first-box div.left p.name{
+	margin-top:-50px;
+	margin-left:165px;
+	font-size:18px;
+	font-family:"Comic Sans MS", cursive;
+	color:#00CCFF;
+}
+div.first-box div.middle img{
+	margin-left:90px;
+}
+div.first-box div.middle p.name{
+	margin-top:-50px;
+	margin-left:165px;
+	font-family:"Comic Sans MS", cursive;
+	color:#00CCFF;
+	font-size:18px;
+}
+div.first-box div.right img{
+	margin-left:70px;
+}
+div.first-box div.right p.name{
+	margin-top:-50px;
+	margin-left:145px;
+	font-family:"Comic Sans MS", cursive;
+	color:#00CCFF;
+	font-size:18px;
+}
+p.detail{
+	margin-top:40px;
+	margin-left:40px;
+	font-family:"Comic Sans MS", cursive;
+	color:#999;
+	font-size:15px;
+	text-align:center;
 }
 
 

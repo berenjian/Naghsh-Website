@@ -52,12 +52,27 @@
 		<div class="first-box">
 			<div class="left">
 				<img src="Images/icon_cloud_blue.gif"/>
+				<p class="name">Lenovo Z580</p>
+				<p class="detail">
+				Up to 3rd generation Intel® Core™ i7
+				Up to Genuine Windows® 7 Home Premium
+				Lenovo Enhanced Experience 3
+				15.6" HD widescreen
+				Starting at 5.8 lbs.
+				Up to 5 hours
+				Up to 1TB HDD
+				Up to 8GB DDR3
+				</p>
 			</div>
 			<div class="middle">
 				<img src="Images/icon_photo_blue.gif"/>
+				<p class="name">Lenovo V570</p>
+				<p class="detail"></p>
 			</div>
 			<div class="right">
 				<img src="Images/icon_iniani_blue.gif"/>
+				<p class="name">Lenovo Z470</p>			
+				<p class="detail"></p>			
 			</div>
 			<div class="clear"></div>
 		</div>
