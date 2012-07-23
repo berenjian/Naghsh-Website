@@ -9,5 +9,40 @@
 </head>
 
 <body>
-</body>
+<div class="container1">
+	<div class="header">
+		<div class="menu">
+			<ul>
+				<li class=""><a href="#">صفحه اصلی</a><br /></li>
+				<li class=""> <a href="#">معرفی محصولات</a><br /></li>
+				<li class=""><a href="#">فروش آنلاین</a><br /></li>
+				<li class=""><a href="#">درباره ما</a><br /></li>
+				<li class="last"><a href="#">تماس با ما</a><br /></li>
+
+			</ul>
+		</div>
+		<div class="logo"></div>
+    </div>
+	<div class="container">
+	<div class="banner">
+    	<div class="scroll">
+        	<div class="adv1"></div>
+            <div class="adv2"></div>
+            <div class="adv3"></div>
+            <div class="adv4"></div>
+            <div class="adv5"></div>
+        </div>
+        <ul class="btn">
+        	<li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+	<div class="content"></div>
+
+
+
+</div>
 </html>
