@@ -13,9 +13,9 @@
 	<div class="header">
 		<div class="menu">
 			<ul>
-				<li class=""><a href="#">ص�?حه اصلی</a><br /></li>
-				<li class=""> <a href="#">معر�?ی محصولات</a><br /></li>
-				<li class=""><a href="#">�?روش آنلاین</a><br /></li>
+				<li class=""><a href="#">صفحه اصلی</a><br /></li>
+				<li class=""> <a href="#">معرفی محصولات</a><br /></li>
+				<li class=""><a href="#">فروش آنلاین</a><br /></li>
 				<li class=""><a href="#">درباره ما</a><br /></li>
 				<li class="last"><a href="#">تماس با ما</a><br /></li>
 
