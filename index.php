@@ -78,7 +78,6 @@
 		</div>
 		<div class="second-box"></div>
 	</div>
-	<div class="content"></div>
 
 
 
