@@ -293,23 +293,18 @@ div.banner div.scroll > div{
 }
 
 div.banner div.scroll > div.adv1{
-	background-color:hsl(0,35%,35%);
 	background-image:url(images/2.jpg);
 }
 div.banner div.scroll > div.adv2{
-	background-color:hsl(60,35%,35%);
 	background-image:url(images/3.jpg);
 }
 div.banner div.scroll > div.adv3{
-	background-color:hsl(120,35%,35%);
 	background-image:url(images/4.jpg);
 }
 div.banner div.scroll > div.adv4{
-	background-color:hsl(180,35%,35%);
 	background-image:url(images/5.jpg);
 }
 div.banner div.scroll > div.adv5{
-	background-color:hsl(240,35%,35%);
 	background-image:url(images/6.jpg);
 }
 
@@ -605,7 +600,7 @@ div.first-bottom div.article2 div.left img{
 }
 div.first-bottom div.article2 div.left p.subject{
 	font-family:"Arial Black", Gadget, sans-serif;
-	font-size:16px;
+	font-size:18px;
 	color:#00C2C9;
 	margin-top:10px;
 	direction:rtl;
@@ -623,7 +618,7 @@ div.first-bottom div.article2 div.left p.content1{
 }
 div.first-bottom div.article2 div.middle p.subject{
 	font-family:"Arial Black", Gadget, sans-serif;
-	font-size:16px;
+	font-size:18px;
 	color:#00C2C9;
 	margin-top:60px;
 	direction:rtl;
@@ -632,7 +627,7 @@ div.first-bottom div.article2 div.middle p.subject{
 }
 div.first-bottom div.article2 div.right p.subject{
 	font-family:"Arial Black", Gadget, sans-serif;
-	font-size:16px;
+	font-size:18px;
 	color:#00C2C9;
 	margin-top:66px;
 	direction:rtl;
@@ -667,7 +662,7 @@ div.copyright{
 }
 div.copyright p.copyright{
 	text-align:center;
-	margin-top:-30px;
+	margin-top:-25px;
 	color:#FFF;
 	font-family:"Comic Sans MS", cursive;
 }
