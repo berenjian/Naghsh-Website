@@ -63,7 +63,7 @@
 					Up to 1TB HDD
 					Up to 8GB DDR3<br /><br />
 					<a href="#">بیشتر</a
-				</p>
+				></p>
 			</div>
 			<div class="middle">
 				<img src="Images/icon_photo_blue.gif"/>
@@ -90,17 +90,108 @@
 					Up to 750GB HDD
 					Up to 8GB DDR3<br /><br />
 					<a href="#">بیشتر</a
-				</p>			
+				></p>			
 			</div>
 			<div class="clear"></div>
 				<p class="line">
 							  			----------------------------------------------------------------------------------------------------------------------------------------------
 				</p>
 		</div>
-		<div class="second-box"></div>
+		<div class="second-box">
+					<div class="left">
+				<img src="Images/icon_favorite_blue.gif"/>
+				<p class="name">Lenovo Z580</p>
+				<p class="detail">
+					Up to 3rd generation Intel® Core™ i7
+					Up to Genuine Windows® 7 Home Premium
+					Lenovo Enhanced Experience 3
+					15.6" HD widescreen
+					Starting at 5.8 lbs.
+					Up to 5 hours
+					Up to 1TB HDD
+					Up to 8GB DDR3<br /><br />
+					<a href="#">بیشتر</a
+				></p>
+			</div>
+			<div class="middle">
+				<img src="Images/icon_music_blue.gif"/>
+				<p class="name">Lenovo V570</p>
+				<p class="detail">
+					Intel Core i5-2410M 2.4 GHz, 6 GB RAM
+					640 GB Hard Drive, DVD/RW
+					1e-SATA, 3- USB 2.0, HDMI, VGA, Intel Wireless Display
+					WiMax enabled, Fingerprint reader
+					Windows 7 Home Premium<br /><br />
+					<a href="#">بیشتر</a>
+				</p>
+			</div>
+			<div class="right">
+				<img src="Images/icon_cloud_blue.gif"/>
+				<p class="name">Lenovo Z480</p>			
+				<p class="detail">
+					Up to 3rd generation Intel® Core™ i7
+					Up to Genuine Windows® 7 Home Premium
+					Lenovo Enhanced Experience 3
+					14" HD widescreen
+					Starting at 5.1 lbs.
+					Up to 5 hours
+					Up to 750GB HDD
+					Up to 8GB DDR3<br /><br />
+					<a href="#">بیشتر</a>
+				</p>			
+			</div>
+			<div class="clear"></div>
+		</div>
 	</div>
+	<div class="brands">
+		<div class="article">
+			<div class="left">
+				<p>We sale these brands...</p>
+			</div>
+			<div class="right">
+				<div class="main">
+					<a target="_new" href="http://apple.com"><div class="apple"></div></a>
+					<a target="_new" href="http://www.sony.com/siteindex.shtml"><div class="sony"></div></a>
+					<a target="_new" href="http://lenovo.com"><div class="lenovo"></div></a>
+					<a target="_new" href="http://asus.com"><div class="asus"></div></a>
+				</div>	
+			</div>
+			<div class="clear"></div>
+		</div>	
+	</div>
+	<div class="first-bottom">
+		<div class="article2">
+			<div class="left">
+				<img src="Images/icon_map.png" />
+				<p id="title">تماس با ما</p>
+				<p class="subject">آدرس</p>
+				<p class="content1">
+				مشهد - بلوار سجاد - مجتمع کامپیوتر رضا - واحد9
+				</p>
+			</div>
+			<div class="middle">
+				<p class="subject">ایمیل</p>
+				<a class="content2" href="info@naghsh-co.ir">info@naghsh-co.ir</a>	
+			</div>
+			<div class="right">
+				<p class="subject">تلفن و فکس</p>
+				<p class="content3">
+				05117677567<br />
+				05117675373<br />
+				05117675374<br />
+				</p>
+			</div>
+			<p class="line1">
+							  			----------------------------------------------------------------------------------------------------------------------------------------------
+			</p>
+			<div class="clear"></div>
 
-
-
+		</div>	
+	</div>
+	<div class="copyright">
+		<p class="copyright">
+			Naghsh-co.ir © 2012. All rights reserved
+		</p>
+	</div>	
 </div>
 </html>
