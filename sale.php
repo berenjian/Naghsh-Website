@@ -42,38 +42,28 @@
 		</div>
 	</div>
 	<div class="content-main">
-		<div class="container-contact">
-			<img src="Images/Post.jpg" alt="post" />
-			<div class="formstyle">
-				<form action="Contact.php" method="post">
-					<input type="text" name="fullName" value="نام و نام خانوادگی" />
-					<input type="text" name="mail" value="ایمیل" />
-					<input type="text" name="subject" value="عنوان" />
-					<textarea  type="text" name="msg" >متن پیام</textarea>
-					<input type="reset" value="Reset">
-					<div class="button">
-						<input type="submit" name="sub" class="ok" value="" title="ارسال" />   
-					</div>
-				</form>
-			</div>
-		</div>		
-		<?php
-			if ( isset($_POST['fullName']) && isset($_POST['mail']) && isset($_POST['subject']) && isset($_POST['msg']) ){
-				$name = $_POST['fullName'];
-				$mail = $_POST['mail'];
-				$subject = $_POST['subject'];
-				$msg = $_POST['msg'];
-				if( @mail('info@naghsh-co.ir',$subject,'Name: '.$name. "\n" .$msg,"From:info@naghsh-co.ir\nReply-To:".$mail) ){
-					echo "<h1 style=\"text-align:center\;\">Your massage has been sent. Please be patient for the answer. thank you</h1>";
-				}
-				else{
-					echo '<h1 style="text-align:center;">Your massage has not been sent. Please fill the form again. thank you!</h1>';
-				}
-			}
-		?>
+		<div class="sale">
+			<form class="sale" action="sale.php" method="post">
+				<input type="text" value="نام و نام خانوادگی" name="name"/>
+				<select name="Barnds">
+					<option value="Apple">Apple</option>
+					<option value="Sony">Sony</option>
+					<option value="Lenovo">Lenovo</option>
+					<option value="Asus">Asus</option>
+				</select>
+				<input type="text" value="مدل کالا و مشخصات و رنگ و..." name="model"/>
+				<input type="text" value="شماره تماس" name="tel"/>
+				<input type="text" value="ایمیل" name="tel"/>
+				<input type="text" value="آدرس" name="tel"/>
+				<input type="text" value="شماره فیش واریزی" name="tel"/>
+				<div class="button1">
+					<input type="submit" name="sub" class="ok" value="" title="ارسال" />   
+				</div>
+			</form>
 
+		</div>
 
-	</div>
+	</div>	
 	<div class="brands">
 		<div class="article">
 			<div class="left">
