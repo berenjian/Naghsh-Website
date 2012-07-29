@@ -29,7 +29,8 @@ body{
 div.container{
 	width:1000px;
 	min-height:950px;
-	margin:0 auto;	
+	margin:0 auto;
+	position:relative;
 }
 
 div.header{
