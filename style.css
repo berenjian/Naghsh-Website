@@ -48,7 +48,6 @@ div.menu ul{
 }
 div.menu li{
 	float:left;
-	margin:10px;
 
 }
 div.menu a{
@@ -58,12 +57,13 @@ div.menu a{
 	direction:rtl;
 	text-align:center;
 	display:block;
-	padding:7px 7px;
+	padding:7px 13px;
+	margin-left:10px;
 }
 div.menu a:hover{
 	float:left;
 	display:block;
-	margin:10px;
+	margin-left:10px;
 	text-align:center;
 	background-color:#00C2C9;
 	transition:all 700ms linear;
