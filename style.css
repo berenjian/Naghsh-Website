@@ -25,6 +25,7 @@ div.container{
 	min-height:950px;
 	margin:0 auto;
 	position:relative;
+
 }
 
 div.header{
@@ -162,8 +163,10 @@ div.banner ul.btn li.active{
 div.content-main{
 	width:1000px;
 	min-height:400px;
-	background-color:#FFFFFF;
+	background-color:#FFF;
 	padding-top:1px;
+	margin:0 auto;
+	margin-top:0px;
 }
 div.news{
 	width:inherit;
