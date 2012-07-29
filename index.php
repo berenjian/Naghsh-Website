@@ -13,11 +13,11 @@
 	<div class="header">
 		<div class="menu">
 			<ul>
-				<li class=""><a href="index.php">صفحه اصلی</a><br /></li>
-				<li class=""><a href="products.php">معرفی محصولات</a><br /></li>
-				<li class=""><a href="sale.php">فروش آنلاین</a><br /></li>
-				<li class=""><a href="about.php">درباره ما</a><br /></li>
-				<li class="last"><a href="Contact.php">تماس با ما</a><br /></li>
+				<li><a href="index.php">صفحه اصلی</a><br /></li>
+				<li><a href="products.php">معرفی محصولات</a><br /></li>
+				<li><a href="sale.php">فروش آنلاین</a><br /></li>
+				<li><a href="about.php">درباره ما</a><br /></li>
+				<li><a href="Contact.php">تماس با ما</a><br /></li>
 
 			</ul>
 		</div>

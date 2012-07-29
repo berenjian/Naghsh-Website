@@ -40,7 +40,7 @@ div.header{
 div.menu{
 	width:600px;
 	height:60px;
-	margin-left:463px;
+	margin-left:10px;
 	margin-top:25px;
 }
 div.menu ul{
@@ -50,15 +50,6 @@ div.menu li{
 	float:left;
 	margin-left:10px;
 	display:block;
-	padding:7px 18px;
-	text-align:center;
-}
-div.menu li.last{
-	float:left;
-	margin-left:10px;
-	display:block;
-	padding:7px 18px;
-	border:none;
 	text-align:center;
 }
 div.menu a{
@@ -67,12 +58,12 @@ div.menu a{
 	font-size:13px;
 	direction:rtl;
 	text-align:center;
+	padding:7px 18px;
 }
 div.menu li:hover{
 	float:left;
 	margin-left:10px;
 	display:block;
-	padding:7px 18px;
 	text-align:center;
 	background-color:#00C2C9;
 	transition:all 700ms linear;
@@ -126,23 +117,18 @@ div.banner div.scroll > div{
 }
 
 div.banner div.scroll > div.adv1{
-	background-color:hsl(0,35%,35%);
 	background-image:url(images/2.jpg);
 }
 div.banner div.scroll > div.adv2{
-	background-color:hsl(60,35%,35%);
 	background-image:url(images/3.jpg);
 }
 div.banner div.scroll > div.adv3{
-	background-color:hsl(120,35%,35%);
 	background-image:url(images/4.jpg);
 }
 div.banner div.scroll > div.adv4{
-	background-color:hsl(180,35%,35%);
 	background-image:url(images/5.jpg);
 }
 div.banner div.scroll > div.adv5{
-	background-color:hsl(240,35%,35%);
 	background-image:url(images/6.jpg);
 }
 
@@ -195,22 +181,16 @@ div.header{
 	z-index:2;
 }
 div.menu{
-	width:600px;
+	width:800px;
 	height:60px;
 	margin-left:463px;
 	margin-top:25px;
+	padding:7px 18px;
 }
 div.menu ul{
 	list-style-type:none;
 }
 div.menu li{
-	float:left;
-	margin-left:10px;
-	display:block;
-	padding:7px 18px;
-	text-align:center;
-}
-div.menu li.last{
 	float:left;
 	margin-left:10px;
 	display:block;
@@ -224,12 +204,13 @@ div.menu a{
 	font-size:13px;
 	direction:rtl;
 	text-align:center;
+		padding:7px 18px;
 }
 div.menu li:hover{
 	float:left;
 	margin-left:10px;
 	display:block;
-	padding:7px 18px;
+
 	text-align:center;
 	background-color:#00C2C9;
 	transition:all 700ms linear;
