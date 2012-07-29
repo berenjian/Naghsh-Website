@@ -23,7 +23,6 @@
 		</div>
 		<div class="logo"></div>
     </div>
-	<div class="container">
 	<div class="banner">
     	<div class="scroll">
         	<div class="adv1"></div>

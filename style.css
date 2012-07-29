@@ -1,13 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-*{
-	transition:all 700ms linear;
-	-webkit-transition:all 700ms linear;
-	-moz-transition:all 700ms linear;
-	-o-transition:all 700ms linear;
-	-ms-transition:all 700ms linear;	
-}
+
 @font-face {
     font-family: 'paco';
 	src:url('paco.TTF');
@@ -26,7 +20,7 @@ body{
 	background-repeat:;
 
 }
-div.container{
+div.container1{
 	width:1000px;
 	min-height:950px;
 	margin:0 auto;
