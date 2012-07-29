@@ -26,7 +26,7 @@ body{
 	background-repeat:;
 
 }
-div.container1{
+div.container{
 	width:1000px;
 	min-height:950px;
 	margin:0 auto;	
@@ -99,13 +99,6 @@ div.logo{
 	-moz-box-shadow:5px 5px 5px #333;
 	-ms-box-shadow:5px 5px 5px #333;
 	-o-box-shadow:5px 5px 5px #333;
-}
-
-div.container{
-	width:1000px;
-	margin:0 auto;
-	padding-top:1px;
-
 }
 
 div.banner{
