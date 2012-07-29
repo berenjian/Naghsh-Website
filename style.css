@@ -34,7 +34,7 @@ div.header{
 	position:fixed;
 	opacity:0.93;
 	left:292px;
-	top:7.5px;
+	top:0px;
 	z-index:2;
 }
 div.menu{
