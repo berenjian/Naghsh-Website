@@ -16,8 +16,8 @@
 }
 
 body{
-	background-image:;
-	background-repeat:;
+	background-image:url(Images/bg.png);
+	background-repeat:repeat;
 
 }
 div.container1{
@@ -38,9 +38,9 @@ div.header{
 	z-index:2;
 }
 div.menu{
-	width:600px;
+	width:640px;
 	height:60px;
-	margin-left:10px;
+	margin-left:420px;
 	margin-top:25px;
 }
 div.menu ul{
@@ -50,7 +50,6 @@ div.menu li{
 	float:left;
 	margin-left:10px;
 	display:block;
-	text-align:center;
 }
 div.menu a{
 	text-decoration:none;
@@ -58,7 +57,8 @@ div.menu a{
 	font-size:13px;
 	direction:rtl;
 	text-align:center;
-	padding:7px 18px;
+	display:block;
+	padding:7px 10px;
 }
 div.menu li:hover{
 	float:left;
