@@ -16,11 +16,11 @@
 }
 
 body{
-	background-image:url(Images/bg.png);
+	background-image:url(Images/bg.jpg);
 	background-repeat:repeat;
 
 }
-div.container1{
+div.container{
 	width:1000px;
 	min-height:950px;
 	margin:0 auto;
@@ -40,7 +40,7 @@ div.header{
 div.menu{
 	width:640px;
 	height:60px;
-	margin-left:420px;
+	margin-left:500px;
 	margin-top:25px;
 }
 div.menu ul{
@@ -139,7 +139,7 @@ div.banner ul.btn{
 	position:absolute;
 	right:0;
 	bottom:0;
-	top:510px;
+	top:500px;
 }
 
 div.banner ul.btn li{
