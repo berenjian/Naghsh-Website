@@ -91,6 +91,20 @@ div.logo{
 	-o-box-shadow:5px 5px 5px #333;
 }
 
+div.about img{
+	width:275px;
+	height:70px;
+	background-image:url(Images/apple.jpg);
+	background-repeat:no-repeat;
+	border-radius:9px;
+	margin:20px;
+	box-shadow:5px 5px 5px #333;
+	-webkit-box-shadow:5px 5px 5px #333;
+	-moz-box-shadow:5px 5px 5px #333;
+	-ms-box-shadow:5px 5px 5px #333;
+	-o-box-shadow:5px 5px 5px #333;
+}
+
 div.banner{
 	width:1000px;
 	height:534px;
@@ -158,7 +172,7 @@ div.banner ul.btn li{
 
 div.banner ul.btn li:hover,
 div.banner ul.btn li.active{
-	background-color:#39D;
+	background-color:#00C2C9;
 	height:22px;
 	margin-top:-6px;
 	-webkit-transition-duration:300ms;
@@ -169,7 +183,6 @@ div.content-main{
 	background-color:#FFF;
 	padding-top:1px;
 	margin:0 auto;
-	margin-top:0px;
 }
 div.news{
 	width:inherit;
@@ -424,15 +437,10 @@ div.first-bottom div.article2 div.left p#title{
 	direction:rtl;
 	margin-left:80px;
 }
-div.first-bottom div.article2 div.left img{
-	margin-left:120px;
-	margin-top:10px;
-}
 div.first-bottom div.article2 div.left p.subject{
 	font-family:"Arial Black", Gadget, sans-serif;
 	font-size:18px;
 	color:#00C2C9;
-	margin-top:10px;
 	direction:rtl;
 	margin-left:180px;
 
@@ -441,7 +449,6 @@ div.first-bottom div.article2 div.left p.content1{
 	font-family:"Arial Black", Gadget, sans-serif;
 	font-size:16px;
 	color:#fff;
-	margin-top:;
 	margin-left:-20px;
 	direction:rtl;
 	white-space:nowrap;
@@ -450,7 +457,6 @@ div.first-bottom div.article2 div.middle p.subject{
 	font-family:"Arial Black", Gadget, sans-serif;
 	font-size:18px;
 	color:#00C2C9;
-	margin-top:60px;
 	direction:rtl;
 	margin-left:180px;	
 	white-space:nowrap;
@@ -459,7 +465,6 @@ div.first-bottom div.article2 div.right p.subject{
 	font-family:"Arial Black", Gadget, sans-serif;
 	font-size:18px;
 	color:#00C2C9;
-	margin-top:66px;
 	direction:rtl;
 	margin-left:180px;	
 	white-space:nowrap;
@@ -468,7 +473,6 @@ div.first-bottom div.article2 div.middle a.content2{
 	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size:15px;
 	color:#fff;
-	margin-top:;
 	margin-left:1px;
 	direction:rtl;
 	white-space:nowrap;
@@ -483,7 +487,7 @@ p.line1{
 	font-size:17px;
 	color:#999;
 	text-align:center;
-	margin-top:-40px;
+	margin-top:12px;
 }
 div.copyright{
 	width:inherit;
@@ -602,7 +606,7 @@ div.sale{
 	display:block;
 	width:400px;
 	height:300px;
-	background-color:#00C2C9;
+	background-color:#999;
 	margin:0 auto;
 	border-radius:10px;
 	-webkit-border-radius:10px;
@@ -713,4 +717,25 @@ div.sale input[type=submit]{
 div.button1{
 	margin-left:300px;
 	margin-top:-10px;
+}
+div.about{
+	width:980px;
+	min-height:300px;
+	margin:0 auto;
+}
+div.about p.about{
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:25px;
+	color:#00C2C9;
+	direction:rtl;
+	white-space:nowrap;
+	margin:-90px 20px;
+}
+div.about p.discribe{
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:18px;
+	color:#999;
+	direction:rtl;
+	margin-top:130px;
+	margin-right:20px;
 }

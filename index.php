@@ -15,8 +15,8 @@
 			<ul>
 				<li><a href="index.php">صفحه اصلی</a><br /></li>
 				<li><a href="#">معرفی محصولات</a><br /></li>
-				<li><a href="sale.php">فروش آنلاین</a><br /></li>
-				<li><a href="#">درباره ما</a><br /></li>
+				<li><a href="sale.php">ثبت سفارش</a><br /></li>
+				<li><a href="about.php">درباره ما</a><br /></li>
 				<li><a href="Contact.php">تماس با ما</a><br /></li>
 
 			</ul>
@@ -161,8 +161,6 @@
 	<div class="first-bottom">
 		<div class="article2">
 			<div class="left">
-				<img src="Images/icon_map.png" />
-				<p id="title">تماس با ما</p>
 				<p class="subject">آدرس</p>
 				<p class="content1">
 				مشهد - بلوار سجاد - مجتمع کامپیوتر رضا - واحد9
@@ -180,8 +178,7 @@
 				05117675374<br />
 				</p>
 			</div>
-			<p class="line1">
-							  			----------------------------------------------------------------------------------------------------------------------------------------------
+			<p class="line1">	  			---------------------------------------------------------------------------------
 			</p>
 			<div class="clear"></div>
 
