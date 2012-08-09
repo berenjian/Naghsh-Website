@@ -14,6 +14,12 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family:'intel';
+	src:url('intel'.woff);
+    font-weight: normal;
+    font-style: normal;
+}
 
 body{
 	background-image:url(Images/bg.jpg);
@@ -135,19 +141,19 @@ div.banner div.scroll > div{
 }
 
 div.banner div.scroll > div.adv1{
-	background-image:url(images/2.jpg);
+	background-image:url(Images/adv1.jpg);
 }
 div.banner div.scroll > div.adv2{
-	background-image:url(images/3.jpg);
+	background-image:url(Images/adv2.jpg);
 }
 div.banner div.scroll > div.adv3{
-	background-image:url(images/4.jpg);
+	background-image:url(Images/adv3.jpg);
 }
 div.banner div.scroll > div.adv4{
-	background-image:url(images/5.jpg);
+	background-image:url(Images/adv4.jpg);
 }
 div.banner div.scroll > div.adv5{
-	background-image:url(images/6.jpg);
+	background-image:url(Images/adv5.jpg);
 }
 
 div.banner ul.btn{
@@ -253,7 +259,7 @@ div.first-box div.right p.name,div.second-box div.right p.name{
 p.detail{
 	margin-top:40px;
 	margin-left:40px;
-	font-family:"Comic Sans MS", cursive;
+	font-family:intel;
 	color:#999;
 	font-size:15px;
 	text-align:center;
@@ -332,7 +338,7 @@ div.article div.left{
 }
 div.article div.left p{
 	text-align:center;
-	font-family:'fredoka';
+	font-family:'intel';
 	font-size:20px;
 	color:#fff;
 	margin:72px 0px;
