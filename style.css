@@ -141,19 +141,24 @@ div.banner div.scroll > div{
 }
 
 div.banner div.scroll > div.adv1{
-	background-image:url(Images/adv1.jpg);
+	background-image:url(Images/picture1.jpg);
+	background-repeat:no-repeat;
 }
 div.banner div.scroll > div.adv2{
-	background-image:url(Images/adv2.jpg);
+	background-image:url(Images/picture2.jpg);
+	background-repeat:no-repeat;
 }
 div.banner div.scroll > div.adv3{
-	background-image:url(Images/adv3.jpg);
+	background-image:url(Images/picture3.jpg);
+	background-repeat:no-repeat;
 }
 div.banner div.scroll > div.adv4{
-	background-image:url(Images/adv4.jpg);
+	background-image:url(Images/picture4.jpg);
+	background-repeat:no-repeat;
 }
 div.banner div.scroll > div.adv5{
-	background-image:url(Images/adv5.jpg);
+	background-image:url(Images/picture5.jpg);
+	background-repeat:no-repeat;
 }
 
 div.banner ul.btn{

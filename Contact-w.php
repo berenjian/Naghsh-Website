@@ -1,4 +1,4 @@
-		<?php
+<?php
 			if ( isset($_POST['fullName']) && isset($_POST['mail']) && isset($_POST['subject']) && isset($_POST['msg']) ){
 				$name = $_POST['fullName'];
 				$mail = $_POST['mail'];
@@ -11,4 +11,4 @@
 					echo '<h1 style="text-align:center;">Your massage has not been sent. Please fill the form again. thank you!</h1>';
 				}
 			}
-		?>
+?>

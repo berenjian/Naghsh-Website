@@ -66,6 +66,7 @@
 			<div class="clear"></div>
 		</div>	
 	</div>
+</div>
 	<div class="first-bottom">
 		<div class="article2">
 			<div class="left">
