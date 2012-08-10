@@ -399,7 +399,7 @@ div.clear{
 }
 div.first-bottom{
 	width:inherit;
-	height:270px;
+	min-height:300px;
 	background-image:url(Images/bottom_2_bg.jpg);
 	background-repeat:repeat;
 	margin-top:-38px;
@@ -489,11 +489,14 @@ div.first-bottom div.article2 div.right p.content3{
 	color:#fff;
 	margin-left:45px;
 }
+div.first-bottom div.article2 div.left img{
+	margin-left:-50px;
+}
 p.line1{
 	font-size:17px;
 	color:#999;
 	text-align:center;
-	margin-top:12px;
+	margin-top:40px;
 }
 div.copyright{
 	width:inherit;

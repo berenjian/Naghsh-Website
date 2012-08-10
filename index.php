@@ -165,6 +165,7 @@
 				<p class="content1">
 				مشهد - بلوار سجاد - مجتمع کامپیوتر رضا - واحد9
 				</p>
+				<img src="Images/map.jpg" alt="map" />
 			</div>
 			<div class="middle">
 				<p class="subject">ایمیل</p>
