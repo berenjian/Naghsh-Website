@@ -5,7 +5,7 @@
 <title>Naghsh Engineer Group</title>
 <link type="text/css" rel="stylesheet" href="style.css" />
 <script type="text/javascript" src="script.js" language="javascript"></script>
-<link href="images/favicon.png" type="image/png" rel="shortcut icon" />
+<link href="Images/favicon.ico" type="image/png" rel="shortcut icon" />
 </head>
 
 <body>
