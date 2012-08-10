@@ -41,7 +41,7 @@
 		</div>
 	<div class="content-main">
 		<div class="sale">
-			<form class="sale" action="sale.php" method="post">
+			<form class="sale" action="sale-w.php" method="post">
 				<input type="text" value="نام و نام خانوادگی" name="name"/>
 				<select name="Barnds">
 					<option value="Apple">Apple</option>
@@ -51,9 +51,9 @@
 				</select>
 				<input type="text" value="مدل کالا و مشخصات و رنگ و..." name="model"/>
 				<input type="text" value="شماره تماس" name="tel"/>
-				<input type="text" value="ایمیل" name="tel"/>
-				<input type="text" value="آدرس" name="tel"/>
-				<input type="text" value="شماره فیش واریزی" name="tel"/>
+				<input type="text" value="ایمیل" name="mail"/>
+				<input type="text" value="آدرس" name="address"/>
+				<input type="text" value="شماره فیش واریزی" name="pay"/>
 				<div class="button1">
 					<input type="submit" name="sub" class="ok" value="" title="ارسال" />   
 				</div>
