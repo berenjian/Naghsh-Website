@@ -25,13 +25,13 @@
 		<div class="logo"></div>
     </div>
 		<div class="banner">
-    	<div class="scroll">
-			<div class="adv1"></div>
-			<div class="adv2"></div>
-			<div class="adv3"></div>
-			<div class="adv4"></div>
-			<div class="adv5"></div>
-        </div>
+			<div class="scroll">
+				<div class="adv1"></div>
+				<div class="adv2"></div>
+				<div class="adv3"></div>
+				<div class="adv4"></div>
+				<div class="adv5"></div>
+			</div>
 			<ul class="btn">
 				<li></li>
 				<li></li>
@@ -40,23 +40,7 @@
 				<li></li>
 			</ul>
 		</div>
-	<div class="content-main">
-		<div class="container-contact">
-			<img src="Images/Post.jpg" alt="post" />
-			<div class="formstyle">
-				<form action="Contact-w.php" method="get">
-					<input type="text" name="fullName" value="نام و نام خانوادگی" />
-					<input type="text" name="mail" value="ایمیل" />
-					<input type="text" name="subject" value="عنوان" />
-					<textarea  type="text" name="msg" >متن پیام</textarea>
-					<input type="reset" value="Reset">
-					<div class="button">
-						<input type="submit" name="sub" class="ok" value="" title="ارسال" />   
-					</div>
-				</form>
-			</div>
-		</div>		
-	</div>
+	<div class="content-main"></div>	
 	<div class="brands">
 		<div class="article">
 			<div class="left">
@@ -80,7 +64,7 @@
 				<p class="content1">
 				مشهد - بلوار سجاد - مجتمع کامپیوتر رضا - واحد9
 				</p>
-				<img src="Images/map.jpg" alt="map" />			
+				<img src="Images/map.jpg" alt="map" />
 			</div>
 			<div class="middle">
 				<p class="subject">ایمیل</p>

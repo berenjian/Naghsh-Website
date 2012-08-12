@@ -20,9 +20,15 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family:'tahoma';
+	src:url(TAHOMA.TTF);
+    font-weight: normal;
+    font-style: normal;
+}
 
 body{
-	background-image:url(Images/bg.jpg);
+	background-image:url(Images/16-10_dark_sleek_blog_07.jpg);
 	background-repeat:repeat;
 
 }
@@ -48,32 +54,35 @@ div.header{
 	z-index:2;
 }
 div.menu{
-	width:640px;
+	width:800px;
 	height:60px;
-	margin-left:500px;
+	margin-left:315px;
 	margin-top:25px;
 }
-div.menu ul{
+div.menu > ul{ /* > hazf kardane ul haye zir majmooe */
 	list-style-type:none;
+	width:650px;
+	margin:0 auto;
 }
+
 div.menu li{
 	float:left;
-
+	position: relative;
 }
 div.menu a{
+	padding:6px 15px;
+	display:block;
+	color:#FFF;
 	text-decoration:none;
-	color:#fff;
 	font-size:13px;
+	font-family:tahoma;
 	direction:rtl;
 	text-align:center;
-	display:block;
-	padding:7px 13px;
-	margin-left:10px;
 }
-div.menu a:hover{
+
+div.menu a:hover:first-child{
 	float:left;
 	display:block;
-	margin-left:10px;
 	text-align:center;
 	background-color:#00C2C9;
 	transition:all 700ms linear;
@@ -82,19 +91,37 @@ div.menu a:hover{
 	-o-transition:all 700ms linear;
 	-ms-transition:all 700ms linear;
 }
+
+
+div.menu li ul{
+	list-style-type:none;
+	position: absolute;
+	left:0;
+	top:30px;
+	display: none;
+}
+
+div.menu li:hover ul{
+	display: block;
+	min-width:100%;/* **** */
+}
+
+div.menu li li{
+	float: none;
+	background-color:#00C2C9;
+	border:0 none;
+}
+
+div.menu li li a{
+	white-space: nowrap;
+}
 div.logo{
 	width:275px;
 	height:70px;
-	background-image:url(Images/apple.jpg);
+	background-image:url(Images/logo.png);
 	background-repeat:no-repeat;
 	margin-top:-80px;	
 	margin-left:10px;
-	border-radius:9px;
-	box-shadow:5px 5px 5px #333;
-	-webkit-box-shadow:5px 5px 5px #333;
-	-moz-box-shadow:5px 5px 5px #333;
-	-ms-box-shadow:5px 5px 5px #333;
-	-o-box-shadow:5px 5px 5px #333;
 }
 
 div.about img{

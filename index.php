@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Naghsh Engineer Group</title>
+<title>Naghsh Engineering Group</title>
 <link type="text/css" rel="stylesheet" href="style.css" />
 <script type="text/javascript" src="script.js" language="javascript"></script>
 <link href="Images/favicon.ico" type="image/png" rel="shortcut icon" />
@@ -14,7 +14,8 @@
 		<div class="menu">
 			<ul>
 				<li><a href="index.php">صفحه اصلی</a><br /></li>
-				<li><a href="#">معرفی محصولات</a><br /></li>
+				<li><a href="products.php">معرفی محصولات</a><br /></li>
+				<li><a href="pricelist.php">لیست قیمت</a><br /></li>
 				<li><a href="sale.php">ثبت سفارش</a><br /></li>
 				<li><a href="about.php">درباره ما</a><br /></li>
 				<li><a href="Contact.php">تماس با ما</a><br /></li>
