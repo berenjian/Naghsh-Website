@@ -13,12 +13,19 @@
 	<div class="header">
 		<div class="menu">
 			<ul>
-				<li><a href="index.php">صفحه اصلی</a><br /></li>
+				<li><a href="index.php">صفحه اصلی</a></li>
 				<li><a href="products.php">معرفی محصولات</a><br /></li>
-				<li><a href="pricelist.php">لیست قیمت</a><br /></li>
-				<li><a href="sale.php">ثبت سفارش</a><br /></li>
-				<li><a href="about.php">درباره ما</a><br /></li>
-				<li><a href="Contact.php">تماس با ما</a><br /></li>
+				<li><a href="#">لیست قیمت</a>
+					<ul>
+						<li><a href="#">Apple</a></li>
+						<li><a href="#">Sony</a></li>
+						<li><a href="#">Lenovo</a></li>
+						<li><a href="#">Asus</a></li>
+            		</ul>
+				</li>
+				<li><a href="sale.php">ثبت سفارش</a></li>
+				<li><a href="about.php">درباره ما</a></li>
+				<li><a href="Contact.php">تماس با ما</a>/li>
 
 			</ul>
 		</div>
