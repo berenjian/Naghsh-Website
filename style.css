@@ -1,6 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 
+*{
+	transition:all 700ms linear;
+	-webkit-transition:all 700ms linear;
+	-moz-transition:all 700ms linear;
+	-o-transition:all 700ms linear;
+	-ms-transition:all 700ms linear;	
+}
 
 @font-face {
     font-family: 'paco';
@@ -80,7 +87,7 @@ div.menu a{
 	text-align:center;
 }
 
-div.menu a:hover:first-child{
+div.menu a.light:hover{
 	float:left;
 	display:block;
 	text-align:center;
@@ -104,26 +111,28 @@ div.menu li ul{
 div.menu li:hover ul{
 	display: block;
 	min-width:100%;/* **** */
+	top:30px;
+	left:0px;
 }
 
 div.menu li li{
 	float: none;
 	background-color:#00C2C9;
 	border:0 none;
+	margin-top:3px;
 }
 
-div.menu li li a{
+div.menu li li a:hover{
 	white-space: nowrap;
 }
 div.logo{
 	width:275px;
 	height:70px;
-	background-image:url(Images/logo.png);
+	background-image:url(Images/Logo.png);
 	background-repeat:no-repeat;
 	margin-top:-80px;	
 	margin-left:10px;
 }
-
 div.about img{
 	width:275px;
 	height:70px;
@@ -547,6 +556,12 @@ div.container-contact{
 	min-height:400px;
 
 }
+div.container-contact img{
+	margin-left:150px;
+	margin-top:50px;
+
+}
+
 div.formstyle{
 	width:350px;/*370px;*/
 	height:280px;/*270px;*/
@@ -555,6 +570,7 @@ div.formstyle{
 	position:relative;
 	float:right;
 	margin-top:60px;
+	margin-right:65px;
 }
 
 div.formstyle input{

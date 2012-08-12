@@ -27,9 +27,8 @@
 	<div class="header">
 		<div class="menu">
 			<ul>
-				<li><a href="index.php">صفحه اصلی</a></li>
-				<li><a href="products.php">معرفی محصولات</a><br /></li>
-				<li><a href="#">لیست قیمت</a>
+				<li><a class="light" href="index.php">صفحه اصلی</a></li>
+				<li><a class="light" href="#">معرفی محصولات</a>
 					<ul>
 						<li><a href="#">Apple</a></li>
 						<li><a href="#">Sony</a></li>
@@ -37,9 +36,17 @@
 						<li><a href="#">Asus</a></li>
             		</ul>
 				</li>
-				<li><a href="sale.php">ثبت سفارش</a></li>
-				<li><a href="about.php">درباره ما</a></li>
-				<li><a href="Contact.php">تماس با ما</a>/li>
+				<li><a class="light" href="#">لیست قیمت</a>
+					<ul>
+						<li><a href="#">Apple</a></li>
+						<li><a href="#">Sony</a></li>
+						<li><a href="#">Lenovo</a></li>
+						<li><a href="#">Asus</a></li>
+            		</ul>
+				</li>
+				<li><a class="light" href="sale.php">ثبت سفارش</a></li>
+				<li><a class="light" href="about.php">درباره ما</a></li>
+				<li><a class="light" href="Contact.php">تماس با ما</a></li>
 
 			</ul>
 		</div>
@@ -63,7 +70,7 @@
 		</div>
 	<div class="content-main">
 		<div class="container-contact">
-			<img src="Images/Post.jpg" alt="post" />
+			<img src="Images/postbox.png" alt="post" />
 			<div class="formstyle">
 				<form action="Contact-w.php" method="get">
 					<input type="text" name="fullName" value="نام و نام خانوادگی" />
