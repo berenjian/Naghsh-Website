@@ -123,7 +123,7 @@
 	</div>
 	<div class="copyright">
 		<p class="copyright">
-			Naghsh-co.ir © 2012. All rights reserved
+			Naghsh-co.ir © 2012. All rights reserved. Designed by Amirmahdi Brenjian.
 		</p>
 	</div>	
 </div>
