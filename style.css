@@ -531,15 +531,16 @@ p.line1{
 	margin-top:40px;
 }
 div.copyright{
+
 	width:inherit;
 	height:30px;
 	margin:0 auto;
 }
 div.copyright p.copyright{
 	text-align:center;
-	margin-top:-25px;
+	margin-top:-22px;
 	color:#FFF;
-	font-family:"Comic Sans MS", cursive;
+	font-family:intel;
 }
 div.container-contact{
 	width:1000px;

@@ -75,7 +75,7 @@
 			</div>
 			<div class="middle">
 				<p class="subject">ایمیل</p>
-				<a class="content2" href="info@naghsh-co.ir">info@naghsh-co.ir</a>	
+				<a class="content2" href="mailto:info@naghsh-co.ir?Subject=E-mail">info@naghsh-co.ir</a>
 			</div>
 			<div class="right">
 				<p class="subject">تلفن و فکس</p>
