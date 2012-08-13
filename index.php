@@ -105,7 +105,7 @@
 				</p>
 			</div>
 			<div class="right">
-				<img src="Images/icon_iniani_blue.gif"/>
+				<img src="Images/icon_iniani_blue.gif" alt="icon"/>
 				<p class="name">Lenovo Z480</p>			
 				<p class="detail">
 					Up to 3rd generation Intel® Core™ i7
@@ -126,7 +126,7 @@
 		</div>
 		<div class="second-box">
 					<div class="left">
-				<img src="Images/icon_favorite_blue.gif"/>
+				<img src="Images/icon_favorite_blue.gif" alt="icon"/>
 				<p class="name">Lenovo Z580</p>
 				<p class="detail">
 					Up to 3rd generation Intel® Core™ i7
@@ -141,7 +141,7 @@
 				></p>
 			</div>
 			<div class="middle">
-				<img src="Images/icon_music_blue.gif"/>
+				<img src="Images/icon_music_blue.gif" alt="music"/>
 				<p class="name">Lenovo V570</p>
 				<p class="detail">
 					Intel Core i5-2410M 2.4 GHz, 6 GB RAM
