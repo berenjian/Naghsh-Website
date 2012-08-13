@@ -77,7 +77,7 @@
 			<div class="right">
 				<div class="main">
 					<a target="_new" href="http://apple.com"><div class="apple"></div></a>
-					<a target="_new" href="http://store.sony.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=10551&storeId=10151&langId=-1&identifier=S_Notebooks&SR=nav:electronics:computers_and_tablets:laptops_dekstops:shop_compare:ss"><div class="sony"></div></a>
+					<a target="_new" href="http://store.sony.com"><div class="sony"></div></a>
 					<a target="_new" href="http://lenovo.com"><div class="lenovo"></div></a>
 					<a target="_new" href="http://asus.com"><div class="asus"></div></a>
 				</div>	
