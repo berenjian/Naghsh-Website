@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+ <!DOCTYPE HTML>
 <html>
 <head>
 <meta charset="utf-8">
@@ -30,8 +30,8 @@
 				<li><a class="light" href="index.php">صفحه اصلی</a></li>
 				<li><a class="light" href="#">معرفی محصولات</a>
 					<ul>
-						<li><a href="#">Apple</a></li>
-						<li><a href="#">Sony</a></li>
+						<li><a href="http://naghsh-co.ir/products/Apple.xlsx">Apple</a></li>
+						<li><a href="http://naghsh-co.ir/products/Sony.xlsx">Sony</a></li>
 						<li><a href="#">Lenovo</a></li>
 						<li><a href="#">Asus</a></li>
             		</ul>
