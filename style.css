@@ -97,7 +97,11 @@ div.menu a.light:hover{
 	-moz-transition:all 700ms linear;
 	-o-transition:all 700ms linear;
 	-ms-transition:all 700ms linear;
-	border-
+	border-radius:9px;
+	-webkit-border-radius:9px;
+	-moz-border-radius:9px;
+	-o-border-radius:9px;
+	-ms-border-radius:9px;
 }
 
 
@@ -107,7 +111,7 @@ div.menu li ul{
 	left:0;
 	top:30px;
 	display:none;
-	
+
 }
 
 div.menu li:hover ul{
@@ -123,6 +127,10 @@ div.menu li li{
 	background-color:#00C2C9;
 	border:0 none;
 	margin-top:3px;
+	-webkit-border-radius:9px;
+	-moz-border-radius:9px;
+	-o-border-radius:9px;
+	-ms-border-radius:9px;
 }
 
 div.menu li li a:hover{
