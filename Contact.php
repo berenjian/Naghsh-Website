@@ -27,27 +27,27 @@
 	<div class="header">
 		<div class="menu">
 			<ul>
-				<li><a class="light" href="index.php">صفحه اصلی</a></li>
+				<li><a class="light" href="Contact.php">تماس با ما</a></li>
+				<li><a class="light" href="about.php">درباره ما</a></li>
+				<li><a class="light" href="#">لیست قیمت</a>
+					<ul>
+						<li><a href="http://naghsh-co.ir/products/Apple.xlsx">Apple</a></li>
+						<li><a href="http://naghsh-co.ir/products/Sony.xlsx">Sony</a></li>
+						<li><a href="http://naghsh-co.ir/products/Lenovo.xlsx">Lenovo</a></li>
+						<li><a href="http://naghsh-co.ir/products/Asus.xlsx">Asus & Acer</a></li>
+            		</ul>
+				</li>
+				<li><a class="light" href="sale.php">ثبت سفارش</a></li>
 				<li><a class="light" href="#">معرفی محصولات</a>
 					<ul>
 						<li><a href="http://naghsh-co.ir/products/Apple.xlsx">Apple</a></li>
 						<li><a href="http://naghsh-co.ir/products/Sony.xlsx">Sony</a></li>
-						<li><a href="#">Lenovo</a></li>
-						<li><a href="#">Asus</a></li>
-            		</ul>
+						<li><a href="http://naghsh-co.ir/products/Lenovo.xlsx">Lenovo</a></li>
+						<li><a href="http://naghsh-co.ir/products/Asus.xlsx">Asus & Acer</a></li>
+            </ul>
 				</li>
-				<li><a class="light" href="#">لیست قیمت</a>
-					<ul>
-						<li><a href="#">Apple</a></li>
-						<li><a href="#">Sony</a></li>
-						<li><a href="#">Lenovo</a></li>
-						<li><a href="#">Asus</a></li>
-            		</ul>
 				</li>
-				<li><a class="light" href="sale.php">ثبت سفارش</a></li>
-				<li><a class="light" href="about.php">درباره ما</a></li>
-				<li><a class="light" href="Contact.php">تماس با ما</a></li>
-
+				<li><a class="light" href="index.php">صفحه اصلی</a></li>
 			</ul>
 		</div>
 		<div class="logo"></div>
@@ -106,31 +106,28 @@
 			<div class="left">
 				<p class="subject">آدرس</p>
 				<p class="content1">
-				مشهد - بلوار سجاد - مجتمع کامپیوتر رضا - واحد9
+				مشهد، بلوار سجاد، نرسیده به چهارراه خیام،<br />مجتمع کامپیوتر رضا، واحد9
 				</p>
-				<img src="Images/map.jpg" alt="map" />			
 			</div>
 			<div class="middle">
-				<p class="subject">ایمیل</p>
-				<a class="content2" href="mailto:info@naghsh-co.ir?Subject=E-mail">info@naghsh-co.ir</a>
+				<p class="subject">پست الکترونیک</p>
+				<a class="content2" href="mailto:info@naghsh-co.ir?Subject=E-mail">info@naghsh-co.ir</a><br />
+				<a class="content2" href="mailto:sale@naghsh-co.ir?Subject=E-mail">sale@naghsh-co.ir</a>
 			</div>
 			<div class="right">
-				<p class="subject">تلفن و فکس</p>
+				<p class="subject">تلفن های تماس</p>
 				<p class="content3">
-				05117677567<br />
-				05117675373<br />
-				05117675374<br />
+				(+98)511 - 76 77 567<br />
+				(+98)511 - 76 75 373<br />
+				(+98)511 - 76 75 374<br />
 				</p>
 			</div>
-			<p class="line1">	  			---------------------------------------------------------------------------------
-			</p>
 			<div class="clear"></div>
-
 		</div>	
 	</div>
 	<div class="copyright">
 		<p class="copyright">
-			Naghsh-co.ir © 2012. All rights reserved. Designed by Amirmahdi Brenjian.
+			www.naghsh-co.ir © 2012. All rights reserved. Designed by Amirmahdi Brenjian.
 		</p>
 	</div>	
 </div>
