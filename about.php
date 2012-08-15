@@ -122,7 +122,7 @@
 	</div>
 	<div class="copyright">
 		<p class="copyright">
-			www.naghsh-co.ir © 2012. All rights reserved. Designed by Amirmahdi Brenjian.
+			www.naghsh-co.ir © 2012. All rights reserved. Designed by<a target="new" href="http://github.com/brenjian">Amirmahdi Brenjian</a>
 		</p>
 	</div>	
 </div>
