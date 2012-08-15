@@ -28,6 +28,7 @@
 			<ul>
 				<li><a class="light" href="Contact.php">تماس با ما</a></li>
 				<li><a class="light" href="about.php">درباره ما</a></li>
+				<li><a class="light" href="sale.php">ثبت سفارش</a></li>
 				<li><a class="light" href="#">لیست قیمت</a>
 					<ul>
 						<li><a href="http://naghsh-co.ir/products/Apple.xlsx">Apple</a></li>
@@ -36,18 +37,16 @@
 						<li><a href="http://naghsh-co.ir/products/Asus.xlsx">Asus & Acer</a></li>
             		</ul>
 				</li>
-				<li><a class="light" href="sale.php">ثبت سفارش</a></li>
 				<li><a class="light" href="#">معرفی محصولات</a>
 					<ul>
 						<li><a href="http://naghsh-co.ir/products/Apple.xlsx">Apple</a></li>
 						<li><a href="http://naghsh-co.ir/products/Sony.xlsx">Sony</a></li>
 						<li><a href="http://naghsh-co.ir/products/Lenovo.xlsx">Lenovo</a></li>
 						<li><a href="http://naghsh-co.ir/products/Asus.xlsx">Asus & Acer</a></li>
-            </ul>
+          			</ul>
 				</li>
 				</li>
 				<li><a class="light" href="index.php">صفحه اصلی</a></li>
-
 			</ul>
 		</div>
 		<div class="logo"></div>
@@ -213,7 +212,7 @@
 	</div>
 	<div class="copyright">
 		<p class="copyright">
-			www.naghsh-co.ir © 2012. All rights reserved. Designed by Amirmahdi Brenjian.
+			www.naghsh-co.ir © 2012. All rights reserved. Designed by<a target="new" href="http://github.com/brenjian">Amirmahdi Brenjian</a>
 		</p>
 	</div>	
 </div>

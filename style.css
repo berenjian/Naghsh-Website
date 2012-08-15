@@ -814,3 +814,7 @@ div.about p.discribe{
 	margin-top:130px;
 	margin-right:20px;
 }
+p.copyright a{
+	text-decoration:none;
+	color:#00C2C9;
+}
