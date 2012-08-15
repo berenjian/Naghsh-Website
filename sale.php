@@ -46,7 +46,6 @@
 						<li><a href="http://naghsh-co.ir/products/Asus.xlsx">Asus & Acer</a></li>
           			</ul>
 				</li>
-				</li>
 				<li><a class="light" href="index.php">صفحه اصلی</a></li>
 			</ul>
 		</div>
@@ -100,10 +99,10 @@
 			</div>
 			<div class="right">
 				<div class="main">
-					<a target="_new" href="http://apple.com"><div class="apple"></div></a>
-					<a target="_new" href="http://store.sony.com"><div class="sony"></div></a>
-					<a target="_new" href="http://lenovo.com"><div class="lenovo"></div></a>
-					<a target="_new" href="http://asus.com"><div class="asus"></div></a>
+					<a target="new" href="http://apple.com"><div class="apple"></div></a>
+					<a target="new" href="http://store.sony.com"><div class="sony"></div></a>
+					<a target="new" href="http://lenovo.com"><div class="lenovo"></div></a>
+					<a target="new" href="http://asus.com"><div class="asus"></div></a>
 				</div>	
 			</div>
 			<div class="clear"></div>
