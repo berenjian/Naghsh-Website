@@ -1,14 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 
-*{
-	transition:all 700ms linear;
-	-webkit-transition:all 700ms linear;
-	-moz-transition:all 700ms linear;
-	-o-transition:all 700ms linear;
-	-ms-transition:all 700ms linear;	
-}
-
 @font-face {
     font-family: 'paco';
 	src:url('paco.TTF');
@@ -103,14 +95,19 @@ div.menu a.light:hover{
 	-o-border-radius:9px;
 	-ms-border-radius:9px;
 }
+div.menu ul li{
+	list-style-type:none;
+	float:left;
+	position:relative;
 
-
+}
 div.menu li ul{
 	list-style-type:none;
 	position: absolute;
 	left:0;
 	top:30px;
 	display:none;
+	z-index:1;
 
 }
 
@@ -124,15 +121,14 @@ div.menu li:hover ul{
 
 div.menu li li{
 	float: none;
-	background-color:#00C2C9;
 	border:0 none;
 	margin-top:3px;
+	background-color:#00C2C9;
 	-webkit-border-radius:9px;
 	-moz-border-radius:9px;
 	-o-border-radius:9px;
 	-ms-border-radius:9px;
 }
-
 div.menu li li a:hover{
 	white-space: nowrap;
 }
@@ -556,7 +552,6 @@ p.line1{
 	margin-top:40px;
 }
 div.copyright{
-
 	width:inherit;
 	height:30px;
 	margin:0 auto;
@@ -817,4 +812,5 @@ div.about p.discribe{
 p.copyright a{
 	text-decoration:none;
 	color:#00C2C9;
+	white-space:nowrap
 }
