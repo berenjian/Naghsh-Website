@@ -207,13 +207,13 @@
 				</p>
 			</div>
 			<div class="clear"></div>
-		</div>	
+		</div>
+		<div class="copyright">
+			<p class="copyright">
+				www.naghsh-co.ir © 2012. All rights reserved. Designed by <a target="new" href="http://github.com/brenjian">Amirmahdi Berenjian</a>
+			</p>
+		</div>		
 	</div>
-	<div class="copyright">
-		<p class="copyright">
-			www.naghsh-co.ir © 2012. All rights reserved. Designed by <a target="new" href="http://github.com/brenjian">Amirmahdi Berenjian</a>
-		</p>
-	</div>	
 </div>
 </body>
 </html>
